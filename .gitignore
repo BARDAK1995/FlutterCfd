@@ -1,0 +1,7 @@
+*.vars
+*.vog
+*.csv
+restart/
+output/
+debug/
+__pycache__/
